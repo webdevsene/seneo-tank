@@ -1,0 +1,10 @@
+[build]
+# // default hugo build folder
+publish = "public"
+#// hugo build command
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_VERSION = "0.62.1"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
