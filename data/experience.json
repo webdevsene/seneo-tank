@@ -1,0 +1,23 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Juil 2021 - Present",
+			"company" : "Demarch",
+			"website": "https://www.demarch.sn",
+			"description" : "Je suis entré @ Demarch en tant que développeur informatique. Ma mission consiste à implémenter des applications web sur la technologie Symfony PHP, Wordpress. C'est  comme ça que j'ai participé à réaliser trois projets Pson/fed, eGouvernance, Refonte Demarch site."
+		},
+		{
+			"timeperiod" : "Fev 2020 - Aug 2020",
+			"company" : "Proged solutions",
+			"website": "https://www.progedsolutions.tn",
+			"description" : "Développeur SharePoint Office 365, je découvre le monde du cloud computing et le low code, ECM enterprise content management pour le cabinet d'avocat ISTISHARAT"
+		},
+		{
+			"timeperiod" : "Fev 2020 - Aug 2020",
+			"company" : "Proged solutions",
+			"website": "https://www.progedsolutions.tn",
+			"description" : "Développeur SharePoint Office 365, je découvre le monde du cloud computing et le low code, ECM enterprise content management pour le cabinet d'avocat ISTISHARAT"
+		}
+	]
+}

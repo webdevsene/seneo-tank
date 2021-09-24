@@ -1,0 +1,11 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Cloud computing" : "80",
+		"ECM SharePoint/ O365" : "85",
+		"Jamstack, Netlify, Hugo" : "45",
+		"Scrum framework" : "90",
+		"Wordpress" : "65",
+		"Symfony PHP" : "97"
+	}
+}

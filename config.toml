@@ -1,0 +1,23 @@
+# baseURL = "https://demo.uicard.io/hugo-uilite-free/"
+baseURL = "localhost"
+languageCode = "en-us"
+paginate = 10
+title = "seneo tank"
+theme = "hugo-uilite"
+
+[params]
+    dateform = "Jan 2, 2006"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "photography"
+    name       = "Photography"
+    url        = "photography/"
