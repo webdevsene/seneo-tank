@@ -2,7 +2,7 @@
 
 <section id="contact" class="bg-light d-flex align-items-center" style="height: 100vh;">
   <div class="container">
-      <h2 class="heading mb-3">Contact</h2>
+      <h2 class="heading mb-3">Me contacter à tout moment !</h2>
 
       <div class="text-success my-3">
         {{ $config.message }}
@@ -11,7 +11,7 @@
       <form action="{{ $config.formspree }}" method="post">
         <div class="form-row">
           <div class="col-12 col-xl-6 col-lg-6 col-md-6">
-            <label>Name</label>
+            <label>Nom & Prénom</label>
             <input type="text" class="form-control" name="name" placeholder="Name">
           </div>
           <div class="col-12 col-xl-6 col-lg-6 col-md-6">
@@ -24,7 +24,7 @@
           <label>Message</label>
           <textarea placeholder="Message" name="message" class="form-control" rows="4"></textarea>
         </div>
-        <button type="submit" class="btn btn-dark">Submit</button>
+        <button type="submit" class="btn btn-dark">Envoyer</button>
       </form>
   </div>
 </section>

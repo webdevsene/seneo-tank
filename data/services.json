@@ -2,14 +2,24 @@
 	"title" : "Services",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "code",
+			"title" : "Développement web",
+			"description" : "Développement & maintenance des applications web, cahier des charges, documentation guide. "
 		},
 		{
-			"icon" : "pen-nib",
+			"icon" : "laptop-code",
+			"title" : "Support IT",
+			"description" : "support informatique, télé-informatique, intervention sur site, maintenance du matériel informatique. "
+		},
+		{
+			"icon" : "pencil-ruler",
 			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "Photoshop CS6, Illustrator, Création de vos Flyers tout évènement. "
+		},
+		{
+			"icon" : "puzzle-piece",
+			"title" : "DevSecOp",
+			"description" : "Profil d'un DevSecOp dans le futur. Je veux allier Dévoppement, Securité et Opérationnel. "
 		}
 	]
 }
