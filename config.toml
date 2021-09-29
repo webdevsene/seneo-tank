@@ -1,5 +1,5 @@
-# baseURL = "https://"
-baseURL = "localhost"
+baseURL = "https://"
+# baseURL = "localhost"
 languageCode = "en-us"
 paginate = 10
 title = "seneo tank"
