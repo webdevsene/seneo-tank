@@ -8,21 +8,25 @@
         {{ $config.message }}
       </div>
 
-      <form action="{{ $config.formspree }}" method="post">
+      <!--<form action="{{ $config.formspree }}" method="post">-->
+      <form name="contact" method="post" data-netlify="true">
         <div class="form-row">
           <div class="col-12 col-xl-6 col-lg-6 col-md-6">
             <label>Nom & Prénom</label>
-            <input type="text" class="form-control" name="name" placeholder="Name">
+            <input type="text" class="form-control" name="name" id="name" placeholder="Eg seneo">
           </div>
           <div class="col-12 col-xl-6 col-lg-6 col-md-6">
             <label>Email</label>
-            <input type="email" class="form-control" name="_replyto" placeholder="Email">
+            <input type="email" class="form-control" name="_replyto" id="_replyto" placeholder="Email">
           </div>
         </div>
 
         <div class="form-group">
           <label>Message</label>
-          <textarea placeholder="Message" name="message" class="form-control" rows="4"></textarea>
+          <textarea placeholder="Message" name="message" id="message" class="form-control" rows="4"></textarea>
+        </div>
+        <div class="field">
+          <div data-netlify-recaptcha="true"></div>
         </div>
         <button type="submit" class="btn btn-dark">Envoyer</button>
       </form>
