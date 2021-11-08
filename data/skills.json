@@ -1,11 +1,12 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"Cloud computing" : "80",
-		"ECM SharePoint/ O365" : "85",
-		"Jamstack, Netlify, Hugo" : "45",
-		"Scrum framework" : "90",
-		"Wordpress" : "65",
-		"Symfony PHP" : "97"
+		"Développement SharePoint/ O365" : "85",
+		"GitHub CI/CD sur netlify + forestry" : "45",
+		"Génération de site static avec le cadre Jamstack Hugo" : "75",
+		"Support IT, Scrum framework" : "90",
+		"CMS framework Wordpress avec Elementor" : "65",
+		"Développement full-stack Symfony PHP, Mariadb" : "97",
+		"Enabling Office 365 services" : "90"
 	}
 }
