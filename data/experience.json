@@ -1,11 +1,17 @@
 {
-	"title" : "Experience",
+	"title" : "Experiences",
 	"experience" : [
 		{
 			"timeperiod" : "Décembre 2021 à Present",
 			"company" : "Agence nationale de la Statistique et de la Démographie ANSD",
 			"website": "https://www.ansd.sn/",
-			"description" : "En tant que Consultant développeur, je travaille sur la refonte de la plateforme de gestion du RNEA (Répertoire national des entreprises et associations)"
+			"description" : "Consultant développeur | ingénieur logiciel"
+		},
+		{
+			"timeperiod" : "Janvier 2022 - Décembre 2022",
+			"company" : "Université Vituelle du Sénégal",
+			"website": "https://www.unchk.sn/",
+			"description" : "Enseignant associé en informatique"
 		},
 		{
 			"timeperiod" : "Juil - Décembre 2021",
