@@ -3,33 +3,33 @@
 	"experience" : [
 		{
 			"timeperiod" : "Décembre 2021 à Present",
-			"company" : "Agence nationale de la Statistique et de la Démographie ANSD",
+			"company" : "ANSD",
 			"website": "https://www.ansd.sn/",
 			"description" : "Consultant développeur | ingénieur logiciel"
 		},
 		{
 			"timeperiod" : "Janvier 2022 - Décembre 2022",
-			"company" : "Université Vituelle du Sénégal",
+			"company" : "UVS",
 			"website": "https://www.unchk.sn/",
 			"description" : "Enseignant associé en informatique"
 		},
 		{
 			"timeperiod" : "Juil - Décembre 2021",
-			"company" : "Demarch",
+			"company" : "Demarch SUARL",
 			"website": "https://www.demarch.sn",
-			"description" : "Je suis entré @ Demarch en tant que développeur informatique. Ma mission consiste à implémenter des applications web sur les technologies Symfony PHP, Wordpress. C'est  comme ça que j'ai participé à réaliser trois projets Pson/fed, eGouvernance, Refonte Demarch site."
+			"description" : "Développeur Full-Stack PHP/Symfony"
 		},
 		{
 			"timeperiod" : "Fev 2020 - Aug 2020",
 			"company" : "Proged solutions",
 			"website": "https://www.progedsolutions.tn",
-			"description" : "Développeur SharePoint Office 365, je découvre le monde du cloud computing et le low code, ECM enterprise content management pour le cabinet d'avocat ISTISHARAT"
+			"description" : "Intégrateur de solutions SharePoint/Microsoft 365"
 		},
 		{
 			"timeperiod" : "Fev 2018 - Aug 2018",
 			"company" : "Djagora Academy",
 			"website": "http://djagora.factorycampus.net/",
-			"description" : "La technopôle de Sfax accueille le programme Djagora 2018. Proposée par Factory Campus et Djagora University, la Djagora Academy est un programme dont l’objectif est la mise en pratique des aspects philosophiques liés au Leadership et à l’Entrepreneurship."
+			"description" : "Stagiaire développeur C#"
 		}
 	]
 }
